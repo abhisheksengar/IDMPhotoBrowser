@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
   s.name         = "IDMPhotoBrowser"
-  s.version      = "1.2.5"
+  s.version      = "1.2.6"
   s.summary      = "IDMPhotoBrowser."
   s.homepage     = "https://github.com/ideaismobile/IDMPhotoBrowser"
 
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author       = { "Appkraft" => "all@appkraft.net" }
   s.source       = { 
-    :git => "https://github.com/ideaismobile/IDMPhotoBrowser.git", 
+    :git => "https://github.com/abhisheksengar/IDMPhotoBrowser.git", 
     :tag => "1.2.5"
   }
 
